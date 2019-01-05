@@ -1,0 +1,25 @@
+.container{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows:70px calc( 100vh - 70px);
+}
+
+
+.mt-1 {
+	margin-top: 1rem; 
+}
+.mt-2 {
+	margin-top: 2rem;
+}
+.mt-3 {
+	margin-top: 3rem;
+}
+
+.my-1 {
+	margin-top: 1rem;
+	margin-bottom: : 1rem;
+}
+
+.mb-0 {
+	margin-bottom: 0;
+}
