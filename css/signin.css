@@ -62,7 +62,7 @@ p{
 	content: "";
 	left: 30%;
 	width: 0;
-    transition: all .3s ease-out;
+    transition: all 5s ease-out;
     border: none;
     border-bottom: solid 2px blue;
     display: block;
@@ -74,7 +74,7 @@ p{
 	content: "";
 	left: -11px;
 	right: 75%;
-	transition: all .3s ease-out;
+	transition: all 5s ease-out;
 	border:none;
 	width: 0 ;
 	position: absolute;
